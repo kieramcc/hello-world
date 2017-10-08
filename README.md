@@ -1,3 +1,3 @@
 # hello-world
 First Repository
-Sunday morning dip into coding. 
+A Sunday morning dip into coding. 
